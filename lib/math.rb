@@ -16,6 +16,7 @@ end
 
 def modulo(num1, num2)
   division = num1.Float / num2.Float
+  return Float
 end
 
 def square_root(num)
